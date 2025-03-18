@@ -1,16 +1,25 @@
-## Hi there 👋
+こんにちは、mIke(ミケ)です！ 👋
 
-<!--
-**0522mIke/0522mIke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、ITエンジニア目指して、バックエンド学習に力を入れて学んでいます。 
+前職ではShopifyでECサイト構築・運営、WordPressサイトの構築など行ってきていました。 
+Webマーケティング、ブランディング、SEO、コンテンツ作成など関連業務を幅広く。 フロントエンド周りが多かったので、今後はバックエンドを習得したいと思い取り組んでいます！
 
-Here are some ideas to get you started:
+今取り組んでいること
+- TypeScript
+- Next.js、Reactを使ったプロジェクト
+- JavaScript
+- Java
+- Pythonでのデータ分析や機械学習
+- GitHubの活用
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+学びたいこと
+- クラウド技術（AWS, GCP）やコンテナ技術（Docker, Kubernetes）
+- モバイルアプリ開発（React Native）
+
+連絡先：
+ポートフォリオ下部に掲載されているメールフォームからお送りください。
+
+ポートフォリオ：
+https://0522mike.github.io/
+
